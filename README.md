@@ -1,7 +1,7 @@
 Hi 👋 My name is Sai Lokesh Reddy
 =================================
 
-Full stack developer - Zemoso Technologies
+Full stack developer 
 ------------------------------------------
 
 *   🌍  I'm based in Hyderabad
