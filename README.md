@@ -29,7 +29,6 @@ Full stack developer
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Sailokeshg"><img src="https://github-readme-stats.vercel.app/api?username=Sailokeshg&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true" alt="Sailokeshg's GitHub stats" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sailokeshg&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="http://www.github.com/Sailokeshg"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sailokeshg&stroke=ffffff&background=000000&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/Sailokeshg"><img src="https://activity-graph.herokuapp.com/graph?username=Sailokeshg&bg_color=000000&color=ffffff&line=14b8a6&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
