@@ -4,7 +4,7 @@ Hi 👋 My name is Sai Lokesh Reddy
 Full stack developer 
 ------------------------------------------
 
-* 🌍  I'm based in Hyderabad
+* 🌍  I'm based in San Francisco
 * 🖥️  See my portfolio at [MyProtfolio](http://sailokeshg.github.io/myportfolio)
 * ✉️  You can contact me at [sailokeshreddyg@gmail.com](mailto:sailokeshreddyg@gmail.com)
 * 🧠  I'm learning FastAPI
