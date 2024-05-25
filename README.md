@@ -5,7 +5,7 @@ Full stack developer
 ------------------------------------------
 
 * 🌍  I'm based in San Francisco, California, United States
-* 🖥️  See my portfolio at [MyProtfolio](https://main--peaceful-starburst-3ebed6.netlify.app/)
+* 🖥️  See my portfolio at [MyProtfolio](https://sailokesh.netlify.app/)
 * ✉️  You can contact me at [sailokeshreddyg@gmail.com](mailto:sailokeshreddyg@gmail.com)
 
 
