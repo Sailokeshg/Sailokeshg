@@ -5,7 +5,7 @@ Full Stack Developer
 ------------------------------------------
 
 * 🌍  I'm based in San Francisco, California, United States  
-* 🖥️  Portfolio: [sailokesh.netlify.app](https://sailokesh.netlify.app)  
+* 🖥️  Portfolio: [My Portfolio](https://sailokesh.netlify.app)  
 * ✉️  Contact: [sailokeshreddyg@gmail.com](mailto:sailokeshreddyg@gmail.com)  
 
 ---
@@ -40,8 +40,9 @@ Full Stack Developer
 
 ### 📊 My GitHub Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sailokeshg&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=Sailokeshg&color=brightgreen&style=flat)
 
+<!-- GitHub Stats Cards -->
 <a href="http://www.github.com/Sailokeshg">
   <img src="https://github-readme-stats.vercel.app/api?username=Sailokeshg&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=22c55e&text_color=ffffff&icon_color=14b8a6" alt="Sailokeshg's GitHub Stats" />
 </a>
@@ -50,12 +51,29 @@ Full Stack Developer
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sailokeshg&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </a>
 
+<!-- Most Used Languages -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sailokeshg&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
----
 
-### 🏆 GitHub Trophies
-
+<!-- GitHub Trophies -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sailokeshg&theme=onedark&no-frame=true&title=Followers,Stars,Commit,Repositories,PullRequest)](https://github.com/Sailokeshg)
 
 
+
+---
+
+### 🔝 Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/Sailokeshg/example-repo/pull/1) in [Sailokeshg/example-repo](https://github.com/Sailokeshg/example-repo)
+2. 💪 Opened PR [#2](https://github.com/Sailokeshg/example-repo/pull/2) in [Sailokeshg/example-repo](https://github.com/Sailokeshg/example-repo)
+3. 🚀 Pushed 3 commits to [Sailokeshg/example-repo](https://github.com/Sailokeshg/example-repo)
+<!--END_SECTION:activity-->
+
+---
+
+### ⚡ Recent GitHub Activity
+
+<a href="https://github.com/Sailokeshg">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sailokeshg&theme=react-dark&hide_border=true&area=true" />
+</a>
